@@ -12,6 +12,5 @@ const peakIndexInMountainArray = (nums) => {
         end = mid - 1;
       }
     }
-   
   };
   console.log(peakIndexInMountainArray([0,1,0]))
