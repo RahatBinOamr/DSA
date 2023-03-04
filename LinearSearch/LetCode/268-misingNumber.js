@@ -9,4 +9,4 @@ for(let i= 0; i<nums.length; i++){
 }
 return sum-sum2;
 }
-console.log(misingNumber([6,7,0,5,3,2,1]));
+console.log(misingNumber([2,3,4,7,11]));
